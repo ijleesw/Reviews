@@ -4,7 +4,7 @@
 
 * **Convergence of Dynamic Programming in Reinforcement Learning (Korean)**
 
-   Finite state and action MDP에서 Value Iteration과 Policy Iteration이 수렴한다는 정리의 증명 및 필요한 보조정리들의 증명입니다.
+   Finite state and action MDP에서 Value Iteration과 Policy Iteration이 수렴한다는 정리의 증명 및 필요한 보조정리들의 증명입니다.
 
 ***
 
