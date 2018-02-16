@@ -10,6 +10,10 @@
 
 * **Search Algorithms of AlphaGo Fan and AlphaGo Zero (Korean)**
 
-   알파고가 학습 단계 및 실제 게임에서 주어진 state에 대한 action을 MCTS로 구하는 과정을 따로 정리한 파일입니다.
+   알파고가 학습 단계 및 실제 게임에서 주어진 state에 대한 action을 MCTS로 구하는 과정을 따로 정리한 pdf 파일입니다.
 
 ***
+
+* **A Brief Summary of GANs**
+
+   GAN, DCGAN, ConGAN, InfoGAN, AC-GAN, GAN-T2I, ALI/BiGAN, WassersteinGAN, Pix2pix, CycleGAN, DiscoGAN, Auto-encoder, EBGAN, BEGAN을 간단하게 정리한 ppt 파일입니다.
