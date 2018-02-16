@@ -16,4 +16,4 @@
 
 * **A Brief Summary of GANs**
 
-   GAN, DCGAN, ConGAN, InfoGAN, AC-GAN, GAN-T2I, ALI/BiGAN, WassersteinGAN, Pix2pix, CycleGAN, DiscoGAN, Auto-encoder, EBGAN, BEGAN을 간단하게 정리한 ppt 파일입니다.
+   GAN, DCGAN, ConGAN, InfoGAN, AC-GAN, GAN-T2I, ALI/BiGAN, WassersteinGAN, Pix2pix, CycleGAN, DiscoGAN, Auto-encoder, EBGAN, BEGAN을 간단하게 정리한 ppt 파일입니다.
